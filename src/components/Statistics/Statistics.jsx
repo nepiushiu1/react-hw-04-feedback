@@ -28,7 +28,7 @@ export const Statistics = ({
       </div>
       <div className={css.feedback}>
         Positive feedback:
-        <span className={css.value}>{positivePercentage}%</span>
+        <span className={css.value}>{positivePercentage.toFixed()}%</span>
       </div>
     </>
   );
