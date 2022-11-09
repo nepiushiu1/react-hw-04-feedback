@@ -1,0 +1,12 @@
+.conteiner {
+  max-width: 1200px;
+  padding: 40px;
+}
+.name {
+  margin-top: 50px;
+}
+
+.feedback {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
